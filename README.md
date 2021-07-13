@@ -9,3 +9,6 @@ Class diagrams requested in [kodluyoruz](https://app.patika.dev/) Object Oriente
 
 ## Class diagram of flight management system
 ![flight_diagram](flight_diagram.png)
+
+## Class diagram of online movie site
+![flight_diagram](movie_site_diagram.png)
