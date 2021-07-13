@@ -1,4 +1,3 @@
-# kodluyoruz-oop-university
-Class diagram of university management system.
+# kodluyoruz-oop
 
-![class_diagram](class_diagram.png)
+#### Class diagram of university management system.
