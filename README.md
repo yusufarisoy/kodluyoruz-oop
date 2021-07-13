@@ -1,4 +1,5 @@
 # kodluyoruz-oop
+Class diagrams requested in [kodluyoruz](https://app.patika.dev/) Object Oriented Programming.
 
 ## Class diagram of university management system.
 ![university_diagram](university_diagram.png)
