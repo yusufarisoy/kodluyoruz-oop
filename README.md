@@ -12,3 +12,6 @@ Class diagrams requested in [kodluyoruz](https://app.patika.dev/) Object Oriente
 
 ## Class diagram of online movie site
 ![flight_diagram](movie_site_diagram.png)
+
+## Class diagram of elevator simulation
+![elevator_diagram](elevator_diagram.png)
